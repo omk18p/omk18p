@@ -119,12 +119,16 @@ A sleek, modern portfolio featuring smooth animations and a clean UI.
 
 ---
 
-### 📊 **GitHub Analytics**
+### 🏆 **Achievements & Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omk18p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="omk18p's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk18p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omk18p&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omk18p&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
