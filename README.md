@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Omkar Sanjay Patil</h1>
 
 <p align="center">
-  <b>Full-Stack MERN Developer | Graph-Tech Researcher | Real-Time Systems Engineer</b><br/>
+  <b>Full-Stack MERN Developer | Graph-Tech Researcher | Real-Time Web Application Developer</b><br/>
   Walchand College of Engineering, Sangli • Maharashtra, India<br/>
   <b>Email:</b> omkar.patil2@walchandsangli.ac.in • <b>Phone:</b> +91 9356284884
 </p>
