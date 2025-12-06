@@ -4,6 +4,10 @@
 
 <div align="center">
   <h3>Scalable Systems | Graph Query Languages | AI Integration</h3>
+  <p>
+    📍 <b>Sangli, Maharashtra, India</b><br>
+    📧 <b>Email:</b> omkar.patil2@walchandsangli.ac.in • 📱 <b>Phone:</b> +91 9356284884
+  </p>
   
   <a href="mailto:omkar.patil2@walchandsangli.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -11,7 +15,7 @@
   <a href="https://github.com/omk18p">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id-here">
+  <a href="https://linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -30,21 +34,21 @@ I am a final-year B.Tech student at **Walchand College of Engineering**, special
 
 ---
 
-### 🛠 **Tech Stack & Arsenal**
+### 🛠 **Technical Skills & Core Competencies**
 
 | **Category** | **Technologies** |
 |:---:|:---|
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
-| **Tools/AI** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![ANTLR](https://img.shields.io/badge/ANTLR-Parser-orange?style=flat-square) |
+| **Web Tech (MERN)** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Core Concepts** | ![DSA](https://img.shields.io/badge/DSA-Data_Structures-blue?style=flat-square) ![OOPS](https://img.shields.io/badge/OOPS-Object_Oriented-purple?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-Database_Mgmt-green?style=flat-square) ![OS](https://img.shields.io/badge/OS-Operating_System-orange?style=flat-square) ![CN](https://img.shields.io/badge/CN-Computer_Networks-red?style=flat-square) |
 
 ---
 
 ### 📂 **Featured Projects**
 
-#### 🔒 **[Secura – Encrypted Real-Time Ecosystem](https://github.com/omk18p/Mern-chat-app)**
+#### 🔹 **1. [Secura – Encrypted Real-Time Ecosystem](https://github.com/omk18p/Mern-chat-app)**
 > *The "Fort Knox" of messaging apps. Security meets modern UX.*
 
 <p align="left">
@@ -54,13 +58,13 @@ I am a final-year B.Tech student at **Walchand College of Engineering**, special
 </p>
 
 A production-grade chat application focusing on absolute privacy and user engagement.
-* **Key Tech:** MERN, Socket.io, WebRTC, Gemini AI, AES-GCM.
-* **Highlight:** Custom implementation of end-to-end encryption and a "Chat Lock" biometric-style feature.
+* **Key Tech:** MERN, Socket.io, WebRTC, Gemini AI, AES-GCM, Cloudinary.
+* **Features:** Chat lock, 1:1 & Group messaging, Built-in Tic-Tac-Toe, Google OAuth.
 * **[🔴 Live Demo](https://mern-chat-app-one-omega.vercel.app/)**
 
 <br/>
 
-#### 🤖 **[QuickHireAI – Automated Interview Intelligence](https://github.com/omk18p/QuickHireAI)**
+#### 🔹 **2. [QuickHireAI – Automated Interview Intelligence](https://github.com/omk18p/QuickHireAI)**
 > *Revolutionizing recruitment with Generative AI and Real-time Proctoring.*
 
 <p align="left">
@@ -71,12 +75,12 @@ A production-grade chat application focusing on absolute privacy and user engage
 
 An automated platform that conducts technical interviews, tracks candidate behavior, and generates detailed PDF performance reports.
 * **Key Tech:** React, Node.js, SpeechRecognition API, Tab-Switch Detection.
-* **Highlight:** Fully automated grading pipeline with Excel bulk-upload support for HR.
+* **Features:** Auto-generated PDF reports, Excel bulk upload, Authenticated dashboards.
 * **[🔴 Live Demo](https://quick-hire-ai.vercel.app/dashboard)**
 
 <br/>
 
-#### 📜 **[GQL – ISO Graph Query Language Research](https://github.com/omk18p/GQL)**
+#### 🔹 **3. [GQL – ISO Graph Query Language Research](https://github.com/omk18p/GQL)**
 > *Engine Design, Grammar Optimization, and Compiler Engineering.*
 
 **Research Paper:** *Comprehensive Review of ISO Graph Query Language (GQL)*
@@ -86,29 +90,57 @@ An automated platform that conducts technical interviews, tracks candidate behav
 * **Achievement:** Achieved a **29% reduction** in grammar rules via AST optimization strategies.
 * **Core Concepts:** ANTLR4, Bison/Flex, Abstract Syntax Trees, Query Pipelines.
 
+<br/>
+
+#### 🔹 **4. [E-Commerce MERN Application](https://github.com/omk18p/e-commerce)**
+> *A comprehensive online shopping solution.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Payments-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/State-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+</p>
+
+A full-stack commerce platform handling the complete user journey.
+* **Features:** JWT Authentication, Cart & Checkout logic, Stripe Payments, Admin Dashboard for Order Management.
+
+<br/>
+
+#### 🔹 **5. [Personal Portfolio Website](https://github.com/omk18p/My-Portfolio)**
+> *Digital Identity & Showcase.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Design-Responsive-pink?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square">
+</p>
+
+A sleek, modern portfolio featuring smooth animations and a clean UI.
+* **Features:** Project listings, Skills section, Contact form.
+* **[🔴 Live Website](https://my-portfolio-teal-eta-90.vercel.app)**
+
 ---
 
 ### 📊 **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omk18p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk18p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omk18p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="omk18p's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omk18p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🎓 **Education**
 
-| **Degree** | **Institute** | **Year** | **Status** |
+| **Degree** | **Institute** | **Score** | **Year** |
 |:---:|:---|:---:|:---:|
-| **B.Tech (IT)** | Walchand College of Engineering, Sangli | 2022 – 2026 | ⚡ Current |
-| **HSC** | Nav Krishna Valley, Kupwad | 2022 | ✅ Completed |
+| **B.Tech (IT)** | Walchand College of Engineering, Sangli | **8.03 CGPA** | 2022 – 2026 |
+| **HSC** | Nav Krishna Valley, Kupwad | **83.50%** | 2022 |
+| **SSC** | Pradnya Prabodhini Prashala, Sangli | **94.80%** | 2020 |
 
 ---
 
 <div align="center">
   <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/omk18p/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=omk18p&label=Profile%20Views&style=flat-square&color=blue" alt="Visitor Count" />
   <br/>
   <br/>
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
