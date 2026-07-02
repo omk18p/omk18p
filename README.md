@@ -6,7 +6,7 @@
   <h3>Scalable Systems | Graph Query Languages | AI Integration</h3>
   <p>
     📍 <b>Sangli, Maharashtra, India</b><br>
-    📧 <b>Email:</b> omkar.patil2@walchandsangli.ac.in • 📱 <b>Phone:</b> +91 9356284884
+    📧 <b>Email:</b> omkarpatil.eng@gmail.com • 📱 <b>Phone:</b> +91 9356284884
   </p>
   
   <a href="mailto:omkar.patil2@walchandsangli.ac.in">
